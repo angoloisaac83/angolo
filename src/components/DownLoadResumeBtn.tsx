@@ -9,7 +9,14 @@ function DownLoadResumeBtn() {
   return (
     <div className="h-fit w-full mt-2 py-2 px-4">
   
-    <HackerBtn label='Download Resume' />
+      <a
+        href="https://docs.google.com/document/d/1zDQonQEqorkazhHr2AjyV6FeETfZjilSRDk5-F3bBi0/view"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <HackerBtn label="View Resume" />
+      </a>
+
   </div>
   )
 }

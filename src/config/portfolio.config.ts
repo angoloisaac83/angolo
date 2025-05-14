@@ -2,7 +2,7 @@ export const portfolioConfig = {
   // Basic Information
   name: "Angolo Isaac Junior",
   title: "Web Developer",
-  description: "I am a Passionate Software Developer",
+  description: "I am a Young Passionate Software Developer",
   location: "",
 
   // Contact Information
@@ -11,7 +11,7 @@ export const portfolioConfig = {
   // Social Media Links
   socialLinks: {
     facebook: "https://www.facebook.com/shahina.khatun.1044",
-    twitter: "https://twitter.com/Taquiimam14",
+    twitter: "https://twitter.com/angoloisaac83",
     linkedin: "https://www.linkedin.com/in/angolo-isaac-6116a6277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     external: "",
     github: "https://github.com/angoloisaac83", // Assuming this is the GitHub link
@@ -51,7 +51,7 @@ export const portfolioConfig = {
 
   // About Information
   about: {
-    bio: "I am a Full Stack Web Developer from Bayelsa state, Yenagoa. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
+    bio: "I am a Young Full Stack Web Developer from Bayelsa state, Yenagoa. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
     hobbies: [
       "Coding",
       "Playing Games",
@@ -102,6 +102,10 @@ export const portfolioConfig = {
         name: "Python",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
       },
+      {
+        name: "PHP",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+      },
     ],
     frameworks: [
       {
@@ -123,6 +127,10 @@ export const portfolioConfig = {
       {
         name: "Bootstrap",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+      },
+      {
+        name: "Lararavel",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg",
       },
     ],
     tools: [
